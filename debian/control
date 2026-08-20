@@ -6,7 +6,6 @@ Build-Depends:
  debhelper (>= 9),
  bvnos-linux-libc-dev,
  dh-python,
- python-setuptools,
  python3-all,
  python3-setuptools,
 Standards-Version: 3.9.6
